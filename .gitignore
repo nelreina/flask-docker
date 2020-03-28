@@ -1,0 +1,7 @@
+.env
+.Ds_Store
+data
+.vscode
+.venv
+__pycache__
+nodemon.json
