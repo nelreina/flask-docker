@@ -19,7 +19,7 @@ Pygments==2.6.1
 PyInstaller==3.6
 python-dotenv==0.12.0
 requests==2.23.0
-urllib3==1.25.8
+urllib3==1.26.5
 uWSGI==2.0.18
 wcwidth==0.1.9
 Werkzeug==1.0.0
